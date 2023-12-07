@@ -1,0 +1,1600 @@
+
+Absolution
+    Spell, Minion, Duration, Physical, Lightning, AoE
+    Cost: 26 Mana
+    Cast Time: 0.75 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 200%
+    Description: Damages enemies in an area, applying a debuff for a short duration. If a non-unique enemy dies while affected by the debuff, the corpse will be consumed to summon a Sentinel of Absolution for a secondary duration, or to refresh the duration and life of an existing one instead if you have the maximum number of them.
+    Deals 873 to 1310 Physical Damage
+    Base duration is 1.00 seconds
+    Base secondary duration is 10.00 seconds
+    +0.6 metres to radius
+    25% chance to Summon a Sentinel of Absolution on Hitting a Rare or Unique Enemy
+    Maximum 3 Summoned Sentinels of Absolution
+    Minions have 40% increased Cooldown Recovery Rate
+    This Spell and Minions Convert 50% of Physical Damage to Lightning Damage
+Animate Guardian
+    Spell, Minion
+    Cost: 20 Mana
+    Cast Time: 0.60 sec
+    Description: Animates a melee weapon or armour, attaching it to an invisible Guardian that fights by your side. Animating multiple items attaches them to the same Guardian. You cannot animate unidentified items. Cannot be used by Traps or Mines.
+    40% increased Minion Movement Speed
+    Minions have 38% more Maximum Life
+    Can use Items requiring up to Level 100
+    Minion deals 38% more Damage
+Animate Weapon
+    Duration, Minion, Spell, Physical
+    Cost: 16 Mana
+    Cast Time: 0.60 sec
+    Description: Animates a Melee Weapon Item or Lingering Blade to fight by your side. You cannot animate unidentified Weapons. Will not animate weapons with 6 sockets. Cannot be used by Traps or Mines.
+    Base duration is 40.00 seconds
+    Can use Items requiring up to Level 100
+    Minions' Attacks deal 126 to 184 additional Physical Damage
+    Animated Lingering Blades deal 17 to 80 Added Attack Physical Damage
+    Minions deal 38% more Damage
+    Maximum 16 Animated Weapons
+    Minions have 38% more Attack Speed
+Animate Weapon
+    Duration, Minion, Spell, Physical
+    Cost: 16 Mana
+    Cast Time: 0.60 sec
+    Description: Animates a Melee Weapon Item or Lingering Blade to fight by your side. You cannot animate unidentified Weapons. Will not animate weapons with 6 sockets. Cannot be used by Traps or Mines.
+    Base duration is 40.00 seconds
+    Can use Items requiring up to Level 100
+    Minions' Attacks deal 126 to 184 additional Physical Damage
+    Animated Lingering Blades deal 17 to 80 Added Attack Physical Damage
+    Minions deal 38% more Damage
+    Maximum 16 Animated Weapons
+    Minions have 38% more Attack Speed
+Arc
+    Spell, Chaining, Lightning
+    Cost: 23 Mana
+    Cast Time: 0.70 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 120%
+    Description: An arc of lightning reaches from the caster to a targeted enemy and chains to other enemies, but not immediately back. Each time the arc chains, it will also chain a secondary arc to another enemy that the main arc has not already hit, which cannot chain further.
+    Deals 198 to 1122 Lightning Damage
+    Chains +8 Times
+    15% more Damage with Hits and Ailments for each remaining Chain
+Arc
+    Spell, Chaining, Lightning
+    Cost: 23 Mana
+    Cast Time: 0.70 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 120%
+    Description: An arc of lightning reaches from the caster to a targeted enemy and chains to other enemies, but not immediately back. Each time the arc chains, it will also chain a secondary arc to another enemy that the main arc has not already hit, which cannot chain further.
+    Deals 198 to 1122 Lightning Damage
+    Chains +8 Times
+    15% more Damage with Hits and Ailments for each remaining Chain
+Armageddon Brand
+    Spell, AoE, Fire, Duration, Brand
+    Cost: 27 Mana
+    Cast Time: 0.40 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 200%
+    Description: Creates a magical brand which can attach to a nearby enemy. It periodically activates while attached, causing a fiery meteor to fall from the sky. The brand will detach if the enemy dies.
+    Activates every 1.5 seconds while Attached
+    Increases and Reductions to Cast Speed also apply to this Skill's Activation frequency
+    Deals 924 to 1386 Fire Damage
+    Base radius is 2.2 metres
+    Can be Attached for a total Duration of 5.00 seconds
+    Can be Detached for a total Duration of 6.00 seconds
+    Deals 39% more Damage with Hits against Branded Enemy
+Armageddon Brand
+    Spell, AoE, Fire, Duration, Brand
+    Cost: 27 Mana
+    Cast Time: 0.40 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 200%
+    Description: Creates a magical brand which can attach to a nearby enemy. It periodically activates while attached, causing a fiery meteor to fall from the sky. The brand will detach if the enemy dies.
+    Activates every 1.5 seconds while Attached
+    Increases and Reductions to Cast Speed also apply to this Skill's Activation frequency
+    Deals 924 to 1386 Fire Damage
+    Base radius is 2.2 metres
+    Can be Attached for a total Duration of 5.00 seconds
+    Can be Detached for a total Duration of 6.00 seconds
+    Deals 39% more Damage with Hits against Branded Enemy
+Ball Lightning
+    Spell, Projectile, AoE, Lightning
+    Cost: 23 Mana
+    Cast Time: 0.70 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 60%
+    Description: Fires a slow-moving projectile that damages enemies in an area around it with bolts of lightning.
+    Deals 32 to 617 Lightning Damage
+    Base radius is 2 metres
+Ball Lightning
+    Spell, Projectile, AoE, Lightning
+    Cost: 23 Mana
+    Cast Time: 0.70 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 60%
+    Description: Fires a slow-moving projectile that damages enemies in an area around it with bolts of lightning.
+    Deals 32 to 617 Lightning Damage
+    Base radius is 2 metres
+Barrage
+    Attack, Projectile, Bow
+    Cost: 11 Mana
+    Attack Damage: 54.6% of base
+    Effectiveness of Added Damage: 55%
+    Description: After a short preparation time, you fire individual projectiles repeatedly with a Bow or Wand. These projectiles have a small randomised spread. This skill cannot be Triggered.
+    Fires 6 Projectiles
+    Fires Projectiles sequentially
+Blade Blast
+    Spell, AoE, Physical
+    Cost: 16 Mana
+    Cast Time: 0.50 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 70%
+    Description: Deals spell damage in a targeted area. Each time this spell deals damage,  it will detonate any of your Lingering Blades it touches, dealing damage again in an area around them. Up to 50 Blades can be detonated this way.
+    Deals 309 to 464 Physical Damage
+    Base radius is 1.5 metres
+Blade Blast
+    Spell, AoE, Physical
+    Cost: 16 Mana
+    Cast Time: 0.50 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 70%
+    Description: Deals spell damage in a targeted area. Each time this spell deals damage,  it will detonate any of your Lingering Blades it touches, dealing damage again in an area around them. Up to 50 Blades can be detonated this way.
+    Deals 309 to 464 Physical Damage
+    Base radius is 1.5 metres
+Blade Flurry
+    Attack, AoE, Channelling, Physical, Melee
+    Cost: 4 Mana
+    Attack Speed: 160% of base
+    Attack Damage: 49% of base
+    Effectiveness of Added Damage: 49%
+    Description: Repeatedly hit enemies in a circle in front of you while channelling, dealing damage to and around the enemy. The damage is continually boosted while channelling. You unleash an additional hit for each stage reached once the channelling ends. Requires a Dagger, Claw or One-Handed Sword.
+    75 to 113 Added Attack Physical Damage
+    25% more Damage with Hits and Ailments for each stage
+    Maximum 6 Stages
+Blade Trap
+    Trap, Attack, AoE
+    Cost: 20 Mana
+    Attack Damage: 96% of base
+    Effectiveness of Added Damage: 96%
+    Description: Throws a trap which, once triggered, swings two copies of your equipped Dagger, Claw or One Handed Sword around it in circles, each repeatedly damaging enemies it spins through.
+    Trap lasts 5 seconds
+    Rotates 5 times
+    25% increased rotation speed if Dual Wielding
+    Rotates +1 times if Dual Wielding
+    Base radius is 2.2 metres
+Blade Trap
+    Trap, Attack, AoE
+    Cost: 20 Mana
+    Attack Damage: 96% of base
+    Effectiveness of Added Damage: 96%
+    Description: Throws a trap which, once triggered, swings two copies of your equipped Dagger, Claw or One Handed Sword around it in circles, each repeatedly damaging enemies it spins through.
+    Trap lasts 5 seconds
+    Rotates 5 times
+    25% increased rotation speed if Dual Wielding
+    Rotates +1 times if Dual Wielding
+    Base radius is 2.2 metres
+Bladefall
+    Spell, AoE, Physical, Duration
+    Cost: 23 Mana
+    Cast Time: 0.70 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 140%
+    Description: Ethereal weapons rain from the sky, dealing damage to enemies in a sequence of volleys. Enemies can be hit multiple times where these overlap.
+    Deals 595 to 893 Physical Damage
+    Base duration is 6.00 seconds
+    Leaves a Lingering Blade in the ground for every Volley
+    6 Volleys
+    Maximum 40 Lingering Blades can be left in the ground at a time
+Bladefall
+    Spell, AoE, Physical, Duration
+    Cost: 23 Mana
+    Cast Time: 0.70 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 140%
+    Description: Ethereal weapons rain from the sky, dealing damage to enemies in a sequence of volleys. Enemies can be hit multiple times where these overlap.
+    Deals 595 to 893 Physical Damage
+    Base duration is 6.00 seconds
+    Leaves a Lingering Blade in the ground for every Volley
+    6 Volleys
+    Maximum 40 Lingering Blades can be left in the ground at a time
+Bladestorm
+    Attack, AoE, Duration, Melee
+    Cost: 8 Mana
+    Attack Speed: 70% of base
+    Attack Damage: 150% of base
+    Effectiveness of Added Damage: 150%
+    Description: Perform a spinning attack, damaging enemies around you and creating a bladestorm matching your stance. The bladestorm repeatedly damages enemies, based on your weapon damage and attack time, for a duration. Blood bladestorms are stationary and cause Bleeding, while Sand bladestorms move slowly forwards and Blind enemies. Requires a Sword or Axe. You are in Blood Stance by default.
+    Base duration is 3.00 seconds
+    108% more Damage with Bleeding while in Blood Stance
+    12% more Attack Speed while you're in a Blood Bladestorm
+    Maximum of 4 Bladestorms at a time
+    Sand Bladestorms grant 38% increased Movement Speed to you
+    Bladestorm deals 50% less Damage with Hits and Ailments
+Blight
+    Spell, Chaos, AoE, Channelling, Duration
+    Cost: 5 Mana
+    Cast Time: 0.30 sec
+    Description: Apply a debuff to enemies in front of you which deals chaos damage over time. Enemies who aren't already debuffed by Blight are also hindered for a shorter secondary duration, slowing their movement. Continued channelling adds layers of damage to the debuff, each with their own duration.
+    Deals 284 Base Chaos Damage per second
+    Base duration is 2.80 seconds
+    Base secondary duration is 1.00 seconds
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    +0.6 metres to radius
+    80% reduced Movement Speed
+    Debuff can have up to 20 layers of Damage
+Blight
+    Spell, Chaos, AoE, Channelling, Duration
+    Cost: 5 Mana
+    Cast Time: 0.30 sec
+    Description: Apply a debuff to enemies in front of you which deals chaos damage over time. Enemies who aren't already debuffed by Blight are also hindered for a shorter secondary duration, slowing their movement. Continued channelling adds layers of damage to the debuff, each with their own duration.
+    Deals 284 Base Chaos Damage per second
+    Base duration is 2.80 seconds
+    Base secondary duration is 1.00 seconds
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    +0.6 metres to radius
+    80% reduced Movement Speed
+    Debuff can have up to 20 layers of Damage
+Blink Arrow
+    Attack, Minion, Duration, Movement, Travel, Bow
+    Cost: 20 Mana
+    Cooldown Time: 3.00 sec
+    Attack Damage: 100% of base
+    Description: Fires an arrow at the target destination. When the arrow lands, you are teleported to it and a clone is summoned at your old location. The clone is a minion that uses your bow and quiver.
+    Base duration is 3.00 seconds
+    87% increased Cooldown Recovery Rate
+    Minions deal 57% more Damage
+Blink Arrow
+    Attack, Minion, Duration, Movement, Travel, Bow
+    Cost: 20 Mana
+    Cooldown Time: 3.00 sec
+    Attack Damage: 100% of base
+    Description: Fires an arrow at the target destination. When the arrow lands, you are teleported to it and a clone is summoned at your old location. The clone is a minion that uses your bow and quiver.
+    Base duration is 3.00 seconds
+    87% increased Cooldown Recovery Rate
+    Minions deal 57% more Damage
+Boneshatter
+    Attack, Melee, Strike, AoE, Duration, Physical
+    Cost: 5 Mana
+    Attack Speed: 85% of base
+    Attack Damage: 250% of base
+    Effectiveness of Added Damage: 250%
+    Description: Attack enemies with a forceful melee strike that also hurts you. Successive uses will raise the damage dealt both to enemies and you. Stunning an enemy with the strike releases a damaging pulse. Requires a Mace, Sceptre, Axe or Staff.
+    158 to 238 Added Attack Physical Damage
+    +0.2 metres to Melee Strike Range
+    Gain 1 Trauma the first time this Attack Hits an Enemy<br>Take 194 Physical Damage per Trauma when you gain Trauma<br>Trauma lasts 6.0 seconds
+    5% more Damage per Trauma
+    Pulse has 15% increased Area of Effect per 0.1s of Stun Duration, up to 400%
+Boneshatter
+    Attack, Melee, Strike, AoE, Duration, Physical
+    Cost: 5 Mana
+    Attack Speed: 85% of base
+    Attack Damage: 250% of base
+    Effectiveness of Added Damage: 250%
+    Description: Attack enemies with a forceful melee strike that also hurts you. Successive uses will raise the damage dealt both to enemies and you. Stunning an enemy with the strike releases a damaging pulse. Requires a Mace, Sceptre, Axe or Staff.
+    158 to 238 Added Attack Physical Damage
+    +0.2 metres to Melee Strike Range
+    Gain 1 Trauma the first time this Attack Hits an Enemy<br>Take 194 Physical Damage per Trauma when you gain Trauma<br>Trauma lasts 6.0 seconds
+    5% more Damage per Trauma
+    Pulse has 15% increased Area of Effect per 0.1s of Stun Duration, up to 400%
+Burning Arrow
+    Attack, Projectile, Fire, Bow
+    Cost: 12 Mana
+    Attack Speed: 70% of base
+    Attack Damage: 300% of base
+    Effectiveness of Added Damage: 300%
+    Description: Fires a burning arrow that deals fire damage and has a chance to ignite.
+    Adds 201 to 302 Fire Damage to Attacks against Ignited Enemies
+    100% of Physical Damage Converted to Fire Damage
+    25% chance to Ignite enemies
+    20% more Damage with Ignite
+Caustic Arrow
+    Attack, Projectile, AoE, Duration, Chaos, Bow
+    Cost: 10 Mana
+    Attack Damage: 64.4% of base
+    Effectiveness of Added Damage: 64%
+    Description: Fires an arrow which deals chaos damage in an area on impact, and spreads caustic ground. Enemies standing on the caustic ground take chaos damage over time.
+    Deals 1927.1 Base Chaos Damage per second
+    Base duration is 2.00 seconds
+    60% of Physical Damage Converted to Chaos Damage
+    Modifiers to Projectile Damage apply to this Skill's Damage Over Time effect
+    +0.8 metres to radius
+Cleave
+    Attack, AoE, Physical, Melee
+    Cost: 6 Mana
+    Attack Speed: 80% of base
+    Attack Damage: 237% of base
+    Effectiveness of Added Damage: 237%
+    Description: The character swings their weapon (or both weapons if dual wielding) in an arc, damaging monsters in an area in front of them. Only works with Axes and Swords.
+    When Dual Wielding, Deals 60% Damage from each Weapon combined
+    75 to 113 Added Attack Physical Damage
+    +1 metre to radius
+    +0.1 metres to radius per Nearby Enemy, up to a maximum of +1 metre
+Cold Snap
+    Spell, AoE, Cold, Duration
+    Cost: 28 Mana
+    Cooldown Time: 3.00 sec
+    Cast Time: 0.85 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 320%
+    Description: Creates a sudden burst of cold in a targeted area, damaging enemies. Also creates an expanding area which is filled with chilled ground, and deals cold damage over time to enemies. Enemies that die while in the area have a chance to grant Frenzy Charges. The cooldown can be bypassed by expending a Frenzy Charge.
+    Deals 1440 to 2160 Cold Damage
+    Base duration is 5.00 seconds
+    Deals 1895.4 Base Cold Damage per second
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    20% more Effect of Chill
+    Burst Base radius is 1.5 metres
+    Chilled Ground Base initial radius is 1.5 metres
+    Chilled Ground Base final radius is 3 metres
+    25% chance to gain a Frenzy Charge when an Enemy Dies while in this Skill's Area
+Consecrated Path
+    Fire, Attack, AoE, Movement, Duration, Slam, Melee
+    Cost: 8 Mana
+    Attack Speed: 80% of base
+    Attack Damage: 230% of base
+    Effectiveness of Added Damage: 230%
+    Description: Slams the ground at a targeted location. If an enemy is near where you target, you'll teleport to it from a short distance away, slam, and create an area of consecrated ground. Can't be supported by Multistrike, and requires a Sword, Axe, Mace, Sceptre, Staff or Unarmed.
+    Base duration is 4.00 seconds
+    50% of Physical Damage Converted to Fire Damage
+    Deals up to 30% more Damage with Hits to closer targets
+Contagion
+    Spell, AoE, Duration, Chaos
+    Cost: 20 Mana
+    Cast Time: 0.60 sec
+    Description: Unleashes a vile contagion on enemies, dealing chaos damage over time. If an enemy dies while affected by Contagion, the debuff spreads to other enemies.
+    Deals 235.9 Base Chaos Damage per second
+    Base duration is 5.00 seconds
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    Base radius is 1.9 metres
+    Spreads when affected Enemy dies
+Contagion
+    Spell, AoE, Duration, Chaos
+    Cost: 20 Mana
+    Cast Time: 0.60 sec
+    Description: Unleashes a vile contagion on enemies, dealing chaos damage over time. If an enemy dies while affected by Contagion, the debuff spreads to other enemies.
+    Deals 235.9 Base Chaos Damage per second
+    Base duration is 5.00 seconds
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    Base radius is 1.9 metres
+    Spreads when affected Enemy dies
+Crackling Lance
+    Spell, AoE, Lightning
+    Cost: 21 Mana
+    Cast Time: 0.65 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 165%
+    Description: Release a beam which deals lightning damage to enemies in a long area in front of you, and has several smaller beams branch off from it at an angle, hitting more enemies to the sides.
+    Deals 458 to 1375 Lightning Damage
+    This Spell loses 1 Intensity every 0.25 seconds while moving, or immediately if you teleport
+    This Spell gains Intensity when you Cast it, to a maximum of 3
+    +0.3 metres to Beam Width Per Intensity<br>33% less branching angle per Intensity
+    45% more Damage with Hits and Ailments per Intensity
+Crackling Lance
+    Spell, AoE, Lightning
+    Cost: 21 Mana
+    Cast Time: 0.65 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 165%
+    Description: Release a beam which deals lightning damage to enemies in a long area in front of you, and has several smaller beams branch off from it at an angle, hitting more enemies to the sides.
+    Deals 458 to 1375 Lightning Damage
+    This Spell loses 1 Intensity every 0.25 seconds while moving, or immediately if you teleport
+    This Spell gains Intensity when you Cast it, to a maximum of 3
+    +0.3 metres to Beam Width Per Intensity<br>33% less branching angle per Intensity
+    45% more Damage with Hits and Ailments per Intensity
+Cremation
+    Spell, AoE, Fire, Duration, Projectile, Orb
+    Cost: 20 Mana
+    Cast Time: 0.60 sec
+    Critical Strike Chance: 5.00%
+    Description: A targeted corpse explodes, dealing area damage and turning into a volcanic geyser, which will repeatedly unleash projectiles sequentially over the surrounding area for a duration. The explosion of the corpse is not affected by modifiers to spell damage, and cannot be reflected.
+    Fires Projectiles every 1.0 seconds
+    Base duration is 8.00 seconds
+    Deals 434 to 651 Fire Damage
+    Fires 4 Projectiles
+    Maximum of 3 Geysers at a time
+    Fires Projectiles 10% faster
+    Explosion deals base Fire Damage equal to 5% of the corpse's Maximum Life
+    +0.3 metres to radius
+Cremation
+    Spell, AoE, Fire, Duration, Projectile, Orb
+    Cost: 20 Mana
+    Cast Time: 0.60 sec
+    Critical Strike Chance: 5.00%
+    Description: A targeted corpse explodes, dealing area damage and turning into a volcanic geyser, which will repeatedly unleash projectiles sequentially over the surrounding area for a duration. The explosion of the corpse is not affected by modifiers to spell damage, and cannot be reflected.
+    Fires Projectiles every 1.0 seconds
+    Base duration is 8.00 seconds
+    Deals 434 to 651 Fire Damage
+    Fires 4 Projectiles
+    Maximum of 3 Geysers at a time
+    Fires Projectiles 10% faster
+    Explosion deals base Fire Damage equal to 5% of the corpse's Maximum Life
+    +0.3 metres to radius
+Cyclone
+    Attack, AoE, Movement, Channelling, Physical, Melee
+    Cost: 2 Mana
+    Attack Speed: 300% of base
+    Attack Damage: 59% of base
+    Effectiveness of Added Damage: 59%
+    Description: Channel this skill to move towards a targeted location while spinning constantly attacking enemies in an area around you. While channelling this skill, you cannot be knocked back.
+    28 to 42 Added Attack Physical Damage
+    10% increased Area of Effect per 0.1 metre additional Melee Strike Range
+    20% less Movement Speed
+Detonate Dead
+    Spell, AoE, Fire
+    Cost: 20 Mana
+    Cast Time: 0.60 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 160%
+    Description: Targets a corpse, and deals spell damage to enemies around the corpse, as well as causing the corpse to explode, dealing fire damage. The explosion is not affected by modifiers to spell damage and cannot be reflected.
+    Deals 798 to 1197 Fire Damage
+    Explosion deals base Fire Damage equal to 7.9% of the corpse's Maximum Life
+    Base radius is 2.6 metres
+    15% chance to detonate an additional corpse
+Detonate Dead
+    Spell, AoE, Fire
+    Cost: 20 Mana
+    Cast Time: 0.60 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 160%
+    Description: Targets a corpse, and deals spell damage to enemies around the corpse, as well as causing the corpse to explode, dealing fire damage. The explosion is not affected by modifiers to spell damage and cannot be reflected.
+    Deals 798 to 1197 Fire Damage
+    Explosion deals base Fire Damage equal to 7.9% of the corpse's Maximum Life
+    Base radius is 2.6 metres
+    15% chance to detonate an additional corpse
+Discharge
+    Spell, AoE, Fire, Cold, Lightning, Nova
+    Cost: 25 Mana
+    Cooldown Time: 2.00 sec
+    Cast Time: 0.75 sec
+    Critical Strike Chance: 7.00%
+    Effectiveness of Added Damage: 600%
+    Description: Discharge all the character's charges to deal elemental damage to all nearby monsters.
+    Deals 639 to 1918 base Lightning Damage per Power Charge removed
+    Deals 1023 to 1535 base Fire Damage per Endurance Charge removed
+    Deals 1023 to 1535 base Cold Damage per Frenzy Charge removed
+    60% less Damage with Ailments
+    Base radius is 3 metres
+    15% more Area of Effect per Charge removed
+    10% chance to deal Damage without removing Charges
+Divine Ire
+    Lightning, Spell, AoE, Channelling, Physical
+    Cost: 5 Mana
+    Cast Time: 0.22 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 45%
+    Description: Channelling draws in energy around you to repeatedly build up stages, damaging a number of nearby enemies when you do so. Release to unleash this energy in a burst around you and a beam in front of you. Modifiers to area of effect do not affect the beam. Maximum of 10 Stages.
+    Deals 203 to 305 Physical Damage
+    50% of Physical Damage Converted to Lightning Damage
+    Damages 5 nearby Enemies when you gain Stages
+    20% increased beam width
+    Beam deals 240% more Damage with Hits per Stage after the first<br>Beam deals 100% more Damage with Ailments per Stage after the first
+Divine Ire
+    Lightning, Spell, AoE, Channelling, Physical
+    Cost: 5 Mana
+    Cast Time: 0.22 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 45%
+    Description: Channelling draws in energy around you to repeatedly build up stages, damaging a number of nearby enemies when you do so. Release to unleash this energy in a burst around you and a beam in front of you. Modifiers to area of effect do not affect the beam. Maximum of 10 Stages.
+    Deals 203 to 305 Physical Damage
+    50% of Physical Damage Converted to Lightning Damage
+    Damages 5 nearby Enemies when you gain Stages
+    20% increased beam width
+    Beam deals 240% more Damage with Hits per Stage after the first<br>Beam deals 100% more Damage with Ailments per Stage after the first
+Dominating Blow
+    Attack, Minion, Duration, Melee, Strike
+    Cost: 8 Mana
+    Attack Damage: 238% of base
+    Effectiveness of Added Damage: 238%
+    Description: Attacks enemies with a melee strike, applying a debuff for a short duration. If a non-unique enemy dies while affected by the debuff, the enemy's corpse will be consumed and a Sentinel of Dominance with the same rarity, prefix and suffix modifiers will be summoned for a longer secondary duration.
+    Base duration is 1.00 seconds
+    Base secondary duration is 20.00 seconds
+    Minions have 40% increased Cooldown Recovery Rate
+    Maximum 9 Summoned Normal Sentinels of Dominance
+    Maximum 3 Summoned Magic Sentinels of Dominance
+    Maximum 1 Summoned Rare Sentinel of Dominance
+    25% Chance to Summon a Normal Sentinel of Dominance on Hitting a Unique Monster
+Double Strike
+    Attack, Melee, Strike, Physical
+    Cost: 5 Mana
+    Attack Speed: 80% of base
+    Attack Damage: 140% of base
+    Effectiveness of Added Damage: 140%
+    Description: Performs two fast strikes with a melee weapon.
+    25% chance to cause Bleeding
+    20% chance to deal Double Damage to Bleeding Enemies
+    Adds 113 to 169 Physical Damage against Bleeding Enemies
+Double Strike
+    Attack, Melee, Strike, Physical
+    Cost: 5 Mana
+    Attack Speed: 80% of base
+    Attack Damage: 140% of base
+    Effectiveness of Added Damage: 140%
+    Description: Performs two fast strikes with a melee weapon.
+    25% chance to cause Bleeding
+    20% chance to deal Double Damage to Bleeding Enemies
+    Adds 113 to 169 Physical Damage against Bleeding Enemies
+Earthquake
+    Attack, AoE, Duration, Slam, Melee
+    Cost: 10 Mana
+    Attack Speed: 75% of base
+    Attack Damage: 150% of base
+    Effectiveness of Added Damage: 150%
+    Description: Smashes the ground, dealing damage in an area and cracking the earth. The crack will erupt in a powerful aftershock after a duration. Cracks created before the first one has erupted will not generate their own aftershocks. Requires an Axe, Mace, Sceptre, Staff or Unarmed.
+    Base duration is 1.00 seconds
+    Aftershock deals 180% more Damage with Hits and Ailments
+Ethereal Knives
+    Spell, Projectile, Physical
+    Cost: 20 Mana
+    Cast Time: 0.60 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 220%
+    Description: Fires an arc of knives in front of the caster which deals physical damage.
+    Deals 949 to 1423 Physical Damage
+    Fires 15 Projectiles
+Ethereal Knives
+    Spell, Projectile, Physical
+    Cost: 20 Mana
+    Cast Time: 0.60 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 220%
+    Description: Fires an arc of knives in front of the caster which deals physical damage.
+    Deals 949 to 1423 Physical Damage
+    Fires 15 Projectiles
+Explosive Concoction
+    Attack, AoE, Fire, Cold, Lightning, Projectile
+    Cost: 9 Mana
+    Attack Speed: 115% of base
+    Attack Damage: 100% of base
+    Description: Throws a bottle that explodes to deal unarmed attack damage in an area. Can consume charges from your Ruby, Sapphire, and Topaz flasks to add further damage. Requires an empty main hand, and no off-hand weapon.
+    1003 to 1505 Added Fire Damage
+    +6% to Critical Strike Chance
+    Base radius is 1.8 metres
+    15% reduced Flask Charges used
+    Can consume Charges from Ruby, Sapphire, and Topaz Flasks<br>Consumes 1 Charge per Projectile Fired from 1 Flask of each valid type, if possible
+    Deals 389 to 589 Added Cold Damage if Charges were consumed from a Sapphire Flask
+    Deals 88 to 903 Added Lightning Damage if Charges were consumed from a Topaz Flask
+    +98% to Damage over Time Multiplier with Ignite if Charges were consumed from a Ruby Flask
+Explosive Trap
+    Trap, Spell, AoE, Fire, Physical
+    Cost: 20 Mana
+    Cast Time: 1.00 sec
+    Critical Strike Chance: 6.00%
+    Description: Throws a trap that creates an explosion when triggered, dealing spell damage in an area around it. A number of smaller explosions occur within a secondary area around the trap in quick succession after the first.
+    Deals 437 to 655 Physical Damage
+    Trap lasts 4 seconds
+    50% of Physical Damage Converted to Fire Damage
+    Base explosion radius is 1.8 metres
+    Base secondary radius is 1.8 metres
+    Base smaller explosion radius is 1.3 metres
+    Causes 9 smaller explosions<br>Smaller explosions have between 30% reduced and 30% increased base radius at random
+Explosive Trap
+    Trap, Spell, AoE, Fire, Physical
+    Cost: 20 Mana
+    Cast Time: 1.00 sec
+    Critical Strike Chance: 6.00%
+    Description: Throws a trap that creates an explosion when triggered, dealing spell damage in an area around it. A number of smaller explosions occur within a secondary area around the trap in quick succession after the first.
+    Deals 437 to 655 Physical Damage
+    Trap lasts 4 seconds
+    50% of Physical Damage Converted to Fire Damage
+    Base explosion radius is 1.8 metres
+    Base secondary radius is 1.8 metres
+    Base smaller explosion radius is 1.3 metres
+    Causes 9 smaller explosions<br>Smaller explosions have between 30% reduced and 30% increased base radius at random
+Exsanguinate
+    Spell, Chaining, Physical, Duration
+    Cost: 46 Life
+    Cast Time: 0.80 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 270%
+    Description: Releases several tendrils of blood from your character, targeting enemies in a narrow angle in front of you. The beams deal physical damage and inflict a physical damage over time debuff to enemies, which can stack up to 3 times. Effects which allow skills to chain can apply to these tendrils.
+    Deals 1193 to 1789 Physical Damage
+    Deals 1121 Base Physical Damage per second
+    Base duration is 2.50 seconds
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    Fires tendrils at up to 9 Targets
+Eye of Winter
+    Spell, Projectile, Cold
+    Cost: 26 Mana
+    Cast Time: 0.80 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 55%
+    Description: Fires a single eye projectile which constantly releases shard projectiles in a spiral. The shards will damage enemies they impact, dealing cold damage. The eye cannot damage enemies. When the eye dissipates or collides with terrain, it releases a faster spiral of extra shards.
+    Deals 245 to 367 Cold Damage
+    Modifiers to number of Projectiles only apply to the final Spiral
+    Fires 10 Shard Projectiles in a Spiral when Projectile ends
+    Projectiles continuously gain Damage, up to 200% more Damage by the time they dissipate
+Eye of Winter
+    Spell, Projectile, Cold
+    Cost: 26 Mana
+    Cast Time: 0.80 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 55%
+    Description: Fires a single eye projectile which constantly releases shard projectiles in a spiral. The shards will damage enemies they impact, dealing cold damage. The eye cannot damage enemies. When the eye dissipates or collides with terrain, it releases a faster spiral of extra shards.
+    Deals 245 to 367 Cold Damage
+    Modifiers to number of Projectiles only apply to the final Spiral
+    Fires 10 Shard Projectiles in a Spiral when Projectile ends
+    Projectiles continuously gain Damage, up to 200% more Damage by the time they dissipate
+Fire Trap
+    Trap, Spell, Duration, AoE, Fire
+    Cost: 20 Mana
+    Cast Time: 1.00 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 260%
+    Description: Throws a trap that explodes when triggered, dealing fire damage to surrounding enemies and leaving an area of burning ground that damages enemies who walk through it.
+    Trap lasts 4 seconds
+    Deals 3018.8 Base Fire Damage per second
+    Base duration is 1.75 seconds
+    Deals 915 to 1373 Fire Damage
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    80% increased Trap Trigger Area of Effect
+    +0.8 metres to radius
+    286 to 429 added Fire Damage against Burning Enemies
+Firestorm
+    Spell, AoE, Duration, Fire
+    Cost: 25 Mana
+    Cast Time: 0.75 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 80%
+    Description: Flaming bolts rain down over the targeted area. They explode when landing, dealing damage to nearby enemies.
+    Base duration is 1.40 seconds
+    Deals 361 to 541 Fire Damage
+    One impact every 0.15 seconds
+    Base radius is 1.5 metres
+    First Impact has 100% more Area of Effect
+    First Impact deals 325% more Damage with Hits and Ailments
+    Maximum 3 Firestorms at a time
+Firestorm
+    Spell, AoE, Duration, Fire
+    Cost: 25 Mana
+    Cast Time: 0.75 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 80%
+    Description: Flaming bolts rain down over the targeted area. They explode when landing, dealing damage to nearby enemies.
+    Base duration is 1.40 seconds
+    Deals 361 to 541 Fire Damage
+    One impact every 0.15 seconds
+    Base radius is 1.5 metres
+    First Impact has 100% more Area of Effect
+    First Impact deals 325% more Damage with Hits and Ailments
+    Maximum 3 Firestorms at a time
+Flame Dash
+    Spell, Movement, Duration, Fire, Travel, Blink
+    Cost: 23 Mana
+    Cooldown Time: 3.50 sec (3 uses)
+    Cast Time: 0.80 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 140%
+    Description: Teleport to a location, damaging enemies and leaving a trail of burning ground. Shares a cooldown with other Blink skills.
+    Deals 1738.6 Base Fire Damage per second
+    Base duration is 4.00 seconds
+    Deals 659 to 988 Fire Damage
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    29% increased Cooldown Recovery Rate
+Flame Surge
+    Spell, AoE, Fire, Duration
+    Cost: 16 Mana
+    Cast Time: 0.50 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 190%
+    Description: Strikes enemies in front of you with a surge of flame. Burning enemies are dealt more damage. If you hit an ignited enemy, will create burning ground under them. Your damage modifiers don't apply to this burning ground.
+    Base duration is 4.00 seconds
+    Deals 832 to 1247 Fire Damage
+    108% more Damage with Hits against Burning enemies
+    Cannot Ignite
+    +9 to Area of Effect length
+    Hits on Ignited Enemies create Burning Ground, no more than once every 2 seconds
+    Burning Ground deals 25% of Fire Damage per second of Ignite affecting Enemy
+Flameblast
+    Spell, AoE, Fire, Channelling
+    Cost: 7 Mana
+    Cast Time: 0.20 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 90%
+    Description: Channels to build up a large explosion, which is released when you stop using the skill. The longer you channel, the larger the area of effect and damage of the explosion.
+    Deals 405 to 608 Fire Damage
+    50% chance to Ignite enemies
+    165% more Spell Damage for each stage
+    60% more Damage with Ailments for each stage
+    11 maximum Stages
+    +0.3 metres to radius per Stage
+Flameblast
+    Spell, AoE, Fire, Channelling
+    Cost: 7 Mana
+    Cast Time: 0.20 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 90%
+    Description: Channels to build up a large explosion, which is released when you stop using the skill. The longer you channel, the larger the area of effect and damage of the explosion.
+    Deals 405 to 608 Fire Damage
+    50% chance to Ignite enemies
+    165% more Spell Damage for each stage
+    60% more Damage with Ailments for each stage
+    11 maximum Stages
+    +0.3 metres to radius per Stage
+Flicker Strike
+    Attack, Melee, Strike, Movement, Duration
+    Cost: 10 Mana
+    Cooldown Time: 2.00 sec
+    Attack Speed: 120% of base
+    Attack Damage: 210% of base
+    Effectiveness of Added Damage: 210%
+    Description: Teleports the character to a nearby monster and attacks with a melee weapon. If no specific monster is targeted, one is picked at random. Grants a buff that increases movement speed for a duration. The cooldown can be bypassed by expending a Frenzy Charge.
+    Base duration is 3.00 seconds
+    10% increased Attack Speed per Frenzy Charge
+    25% chance to gain a Frenzy Charge on Hit
+    Buff grants 20% increased Movement Speed
+Forbidden Rite
+    Spell, AoE, Chaos, Projectile
+    Cost: 21 Mana
+    Cast Time: 0.75 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 110%
+    Description: Lobs an exploding projectile near the targeted location, and extra projectiles toward enemies around you. The projectiles deal chaos damage based on your life and energy shield. Casting this spell damages you.
+    Deals 498 to 747 Chaos Damage
+    Deals 5% of your maximum Energy Shield as base Chaos Damage
+    Deals 12% of your maximum Life as base Chaos Damage
+    Take 40% of maximum Life and 25% of maximum Energy Shield as Chaos Damage
+    Fires extra Projectiles at up to 9 surrounding Enemies
+Frenzy
+    Attack, Projectile, Melee, Strike, Bow
+    Cost: 10 Mana
+    Attack Damage: 135% of base
+    Effectiveness of Added Damage: 135%
+    Description: Performs an attack that gives the character a frenzy charge if it hits. Frenzy charges increase your attack speed.
+    7% more Attack Damage per Frenzy Charge
+    7% more Attack Speed per Frenzy Charge
+Frost Bomb
+    Spell, AoE, Duration, Cold, Orb
+    Cost: 16 Mana
+    Cooldown Time: 2.50 sec
+    Cast Time: 0.50 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 310%
+    Description: Creates a crystal that pulses with cold for a duration. Each pulse applies a debuff to nearby enemies for a secondary duration which reduces life regeneration rate, and also inflicts Cold Exposure. When the crystal's duration ends, it explodes, dealing heavy cold damage to enemies around it.
+    Deals 1391 to 2086 Cold Damage
+    Base duration is 2.00 seconds
+    Base secondary duration is 5.00 seconds
+    75% reduced Life Regeneration rate
+    Base radius is 3.1 metres
+    20% increased Cooldown Recovery Rate
+    Cold Exposure applies -15% to Cold Resistance
+Frost Bomb
+    Spell, AoE, Duration, Cold, Orb
+    Cost: 16 Mana
+    Cooldown Time: 2.50 sec
+    Cast Time: 0.50 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 310%
+    Description: Creates a crystal that pulses with cold for a duration. Each pulse applies a debuff to nearby enemies for a secondary duration which reduces life regeneration rate, and also inflicts Cold Exposure. When the crystal's duration ends, it explodes, dealing heavy cold damage to enemies around it.
+    Deals 1391 to 2086 Cold Damage
+    Base duration is 2.00 seconds
+    Base secondary duration is 5.00 seconds
+    75% reduced Life Regeneration rate
+    Base radius is 3.1 metres
+    20% increased Cooldown Recovery Rate
+    Cold Exposure applies -15% to Cold Resistance
+Frostblink
+    Spell, Movement, Duration, Cold, Travel, Blink, AoE
+    Cost: 22 Mana
+    Cooldown Time: 2.60 sec
+    Cast Time: Instant
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 180%
+    Description: Teleport to a location, damaging enemies and leaving Chilled ground in an area at both ends of the teleport. Shares a cooldown with other Blink skills.
+    Deals 1144 to 1716 Cold Damage
+    Base duration is 3.00 seconds
+    +0.3 metres to radius
+    19% increased Cooldown Recovery Rate for each Normal or Magic Enemy in Area<br>99% increased Cooldown Recovery Rate for each Rare or Unique Enemy in Area
+    48% increased maximum travel distance
+Frozen Legion
+    Spell, Cold, Attack, AoE, Melee
+    Cost: 23 Mana
+    Cooldown Time: 0.80 sec (6 uses)
+    Cast Time: 0.70 sec
+    Description: This spell consumes multiple cooldown uses to summon icy Statues in a ring. Each Statue uses your Frozen Sweep attack once before vanishing. Requires an Axe, Mace, Sceptre, or Staff. This skill cannot be triggered, supported by Spell Echo or Unleash, or used by Totems, Traps, or Mines.
+    20% increased Cooldown Recovery Rate
+    Consumes one Cooldown Use per Statue Summoned
+    Additional Skill: Frozen Sweep
+        Attack Speed: 70% of base
+        Attack Damage: 281% of base
+        Effectiveness of Added Damage: 281%
+        Description: This attack is used by your Statues to deal damage in an area around them while stepping forward. This skill cannot repeat and can only be used by Statues from Frozen Legion.
+        100% of Physical Damage Converted to Cold Damage
+        You cannot use this Skill yourself, your Statues will use this Skill for you
+Glacial Cascade
+    Spell, AoE, Cold, Physical
+    Cost: 20 Mana
+    Cast Time: 0.60 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 65%
+    Description: Icicles emerge from the ground in a series of small bursts, each damaging enemies caught in the area and knocking them back in the direction of the next burst.
+    Deals 300 to 450 Physical Damage
+    Knocks Enemies Back on Hit
+    100% of Physical Damage Converted to Cold Damage
+    Cannot Knockback Unique Enemies more than once per second<br>Final Burst Deals 250% more Damage<br>Final Burst has 100% more Area of Effect<br>Final Burst cannot Knockback
+    Causes 4 Bursts
+Glacial Hammer
+    Attack, Melee, Strike, Cold
+    Cost: 5 Mana
+    Attack Damage: 269% of base
+    Effectiveness of Added Damage: 269%
+    Description: Hits enemies, converting some of your physical damage to cold damage. If a non-unique enemy is frozen and is on less than one third life, they will shatter when hit by Glacial Hammer. If striking three times in a row, the third strike will freeze enemies more easily. Requires a Mace, Sceptre or Staff.
+    100% of Physical Damage Converted to Cold Damage
+    25% chance to Freeze enemies
+    Every third successive strike Freezes enemies as though dealing 490% more Damage
+    +0.2 metres to Melee Strike Range
+    29% increased Effect of Cold Ailments
+    35% increased Duration of Cold Ailments
+    Adds 75 to 113 Cold Damage against Chilled Enemies
+Ground Slam
+    Attack, AoE, Slam, Melee
+    Cost: 6 Mana
+    Attack Speed: 90% of base
+    Attack Damage: 188% of base
+    Effectiveness of Added Damage: 188%
+    Description: Slams the ground in front of you, creating a wave that travels forward and damages enemies with an increased chance to stun. The wave deals more damage to closer enemies. Requires an Axe, Mace, Sceptre, Staff or Unarmed.
+    25% reduced Enemy Stun Threshold
+    +1 metre to radius
+    Deals up to 69% more Damage with Hits to closer targets
+Hexblast
+    Spell, AoE, Chaos, Hex
+    Cost: 30 Mana
+    Cast Time: 1.00 sec
+    Critical Strike Chance: 4.00%
+    Effectiveness of Added Damage: 340%
+    Description: Deals chaos damage to a single enemy, dealing more damage if they are Hexed, then removing the Hex. If the enemy was Hexed, also deals area damage to other enemies around the target, boosting damage and removing Hexes from those enemies in the same way.
+    Deals 1514 to 2271 Chaos Damage
+    This Spell's Cast Time is added to its Cooldown if Triggered
+    Base radius is 2.8 metres
+    All Damage can Ignite, Freeze, and Shock
+    Chaos Damage with Hits is Resisted by lowest Resistance instead
+    40% more Damage with Ailments if Enemy is Hexed
+    100% more Damage with Hits if Enemy is Hexed
+    90% chance to remove a Hex after Damaging
+Hexblast
+    Spell, AoE, Chaos, Hex
+    Cost: 30 Mana
+    Cast Time: 1.00 sec
+    Critical Strike Chance: 4.00%
+    Effectiveness of Added Damage: 340%
+    Description: Deals chaos damage to a single enemy, dealing more damage if they are Hexed, then removing the Hex. If the enemy was Hexed, also deals area damage to other enemies around the target, boosting damage and removing Hexes from those enemies in the same way.
+    Deals 1514 to 2271 Chaos Damage
+    This Spell's Cast Time is added to its Cooldown if Triggered
+    Base radius is 2.8 metres
+    All Damage can Ignite, Freeze, and Shock
+    Chaos Damage with Hits is Resisted by lowest Resistance instead
+    40% more Damage with Ailments if Enemy is Hexed
+    100% more Damage with Hits if Enemy is Hexed
+    90% chance to remove a Hex after Damaging
+Holy Flame Totem
+    Totem, Spell, Projectile, Fire, Channelling, Physical
+    Cost: 39 Mana
+    Cast Time: 0.25 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 35%
+    Description: Summons a totem that channels to fire a stream of flame at nearby enemies, and creates an area of consecrated ground around the totem.
+    Deals 153 to 230 Physical Damage
+    Projectiles Pierce all Targets
+    Totem lasts 8 seconds
+    Fires 3 Projectiles
+    50% of Physical Damage Converted to Fire Damage
+    Summons a Totem which uses this Skill
+    40% increased Projectile Speed
+    Consecrated Ground grants Immunity to Curses to you and Allies
+Ice Nova
+    Spell, AoE, Cold, Nova
+    Cost: 23 Mana
+    Cast Time: 0.70 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 230%
+    Description: A circle of ice expands from the caster.
+    Deals 988 to 1481 Cold Damage
+    +0.4 metres to radius
+    Base radius is 2.9 metres
+Ice Nova
+    Spell, AoE, Cold, Nova
+    Cost: 23 Mana
+    Cast Time: 0.70 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 230%
+    Description: A circle of ice expands from the caster.
+    Deals 988 to 1481 Cold Damage
+    +0.4 metres to radius
+    Base radius is 2.9 metres
+Ice Spear
+    Critical, Spell, Projectile, Cold
+    Cost: 23 Mana
+    Cast Time: 0.70 sec
+    Critical Strike Chance: 7.00%
+    Effectiveness of Added Damage: 130%
+    Description: Launches shards of ice in rapid succession. After travelling a short distance they change to a second form, which moves much faster and pierces through enemies.
+    Deals 568 to 852 Cold Damage
+    Fires 2 Projectiles
+    Second form has 600% increased Critical Strike Chance
+    Second form has +89% to Critical Strike Multiplier
+    Second form has 300% more Projectile Speed
+Ice Trap
+    Trap, Spell, AoE, Cold
+    Cost: 22 Mana
+    Cast Time: 1.00 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 290%
+    Description: Throws a trap that creates a series of icy runic explosions when triggered, dealing cold damage to all enemies caught in the blasts.
+    Deals 1275 to 1912 Cold Damage
+    Trap lasts 4 seconds
+    15% Chance for Trap to Trigger an additional time
+    Base radius is 1.8 metres
+    Base secondary radius is 0.9 metres
+    Base tertiary radius is 0.6 metres
+Icicle Mine
+    Mine, Critical, Spell, Projectile, Cold, Aura, AoE
+    Cost: 6 Mana
+    Reservation: 6 Mana
+    Cast Time: 0.75 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 110%
+    Description: Throws a mine that fires projectiles around it when detonated. These projectiles quickly dissipate as they travel, before disappearing.
+    Deals 514 to 771 Cold Damage
+    Mine lasts 5 seconds
+    Base Mine Detonation Time is 0.30 seconds
+    Fires 7 Projectiles
+    Fires Projectiles in a circle
+    Fires an additional Projectile for every 2 prior Mines in Detonation Sequence
+    Each Mine applies 10% increased Critical Strike Chance to Hits against Enemies near it, up to a maximum of 500%
+Icicle Mine
+    Mine, Critical, Spell, Projectile, Cold, Aura, AoE
+    Cost: 6 Mana
+    Reservation: 6 Mana
+    Cast Time: 0.75 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 110%
+    Description: Throws a mine that fires projectiles around it when detonated. These projectiles quickly dissipate as they travel, before disappearing.
+    Deals 514 to 771 Cold Damage
+    Mine lasts 5 seconds
+    Base Mine Detonation Time is 0.30 seconds
+    Fires 7 Projectiles
+    Fires Projectiles in a circle
+    Fires an additional Projectile for every 2 prior Mines in Detonation Sequence
+    Each Mine applies 10% increased Critical Strike Chance to Hits against Enemies near it, up to a maximum of 500%
+Infernal Blow
+    Attack, AoE, Melee, Strike, Fire, Duration
+    Cost: 6 Mana
+    Attack Damage: 166% of base
+    Effectiveness of Added Damage: 166%
+    Description: Attacks with your weapon, applying a charged debuff to enemies hit by your strike, and an uncharged debuff to any other enemies hit. Upon reaching 6 charges, expiring, or the enemy's death, the charged debuff is removed, and it deals damage to that and other nearby enemies. Enemies with either debuff explode when they die, damaging other nearby enemies. Damage from this explosion cannot be reflected. Requires a Sword, Axe, Mace, Sceptre, Staff or Unarmed.
+    Base duration is 0.80 seconds
+    75 to 113 Added Fire Damage
+    60% of Physical Damage Converted to Fire Damage
+    Explosion deals base Fire Damage equal to 6% of the corpse's Maximum Life
+    Base radius is 2.4 metres
+    Base explosion radius is 1.8 metres
+    Debuff deals 76% of Damage per Charge
+Lacerate
+    Attack, AoE, Physical, Melee
+    Cost: 8 Mana
+    Attack Speed: 60% of base
+    Attack Damage: 154% of base
+    Effectiveness of Added Damage: 154%
+    Description: Slashes twice, releasing waves of force that damage enemies they hit. Enemies in the middle of the slashes can be hit by both. The slashes will have a chance to inflict bleeding in Blood Stance, or have a wider angle in Sand Stance. Can be used with Axes and Swords. You are in Blood Stance by default.
+    20% increased Attack Speed if you've changed Stance Recently
+    75 to 113 Added Attack Physical Damage
+    +0.9 metres to radius
+    88% more Damage with Bleeding while in Blood Stance
+    25% chance to cause Bleeding while in Blood Stance
+    50% increased angle while in Sand Stance
+Lacerate
+    Attack, AoE, Physical, Melee
+    Cost: 8 Mana
+    Attack Speed: 60% of base
+    Attack Damage: 154% of base
+    Effectiveness of Added Damage: 154%
+    Description: Slashes twice, releasing waves of force that damage enemies they hit. Enemies in the middle of the slashes can be hit by both. The slashes will have a chance to inflict bleeding in Blood Stance, or have a wider angle in Sand Stance. Can be used with Axes and Swords. You are in Blood Stance by default.
+    20% increased Attack Speed if you've changed Stance Recently
+    75 to 113 Added Attack Physical Damage
+    +0.9 metres to radius
+    88% more Damage with Bleeding while in Blood Stance
+    25% chance to cause Bleeding while in Blood Stance
+    50% increased angle while in Sand Stance
+Lancing Steel
+    Attack, Projectile, Physical
+    Cost: 10 Mana
+    Attack Speed: 80% of base
+    Attack Damage: 106% of base
+    Effectiveness of Added Damage: 106%
+    Description: Thrust an Axe or Sword forward, consuming your Steel Shards to form a cluster of shards in front of you. The cluster will fire a number of projectiles in sequence, aiming at enemies in front of or close to it. Steel Shards are gained with the Call of Steel Skill.
+    113 to 169 Added Attack Physical Damage
+    Fires 5 Projectiles
+    Fires 50% more Projectiles per Steel Shard consumed
+    20% chance to Impale Enemies on Hit
+    Hits after the first on each Enemy deal 60% less Damage
+    Consumes up to 4 Steel Shards
+Leap Slam
+    Attack, AoE, Movement, Travel, Slam, Melee
+    Cost: 10 Mana
+    Attack Damage: 150% of base
+    Effectiveness of Added Damage: 150%
+    Description: Jump into the air, damaging and knocking back enemies with your weapon where you land. Enemies you would land on are pushed out of the way. Requires an Axe, Mace, Sceptre, Sword or Staff. Cannot be supported by Multistrike.
+    79% increased Stun Duration against Enemies that are on Full Life
+    +0.55 seconds to Attack Time
+    Base radius is 1.5 metres
+    Damaging Hits always Stun Enemies that are on Full Life
+Lightning Conduit
+    Spell, AoE, Lightning
+    Cost: 16 Mana
+    Cast Time: 0.50 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 140%
+    Description: Lightning strikes all Shocked enemies around a targeted location, then removes Shock from those enemies. Shocks cannot expire on enemies in range while casting this spell. Cannot be supported by Spell Cascade or Unleash.
+    Deals 387 to 1161 Lightning Damage
+    Cannot inflict Shock
+    This Spell's Cast Time is added to its Cooldown if Triggered
+    Base radius is 6 metres
+    24% more Damage with Hits per 5% Shock Effect on Enemy
+Lightning Spire Trap
+    Trap, Critical, Spell, Duration, AoE, Lightning
+    Cost: 25 Mana
+    Cooldown Time: 8.00 sec (3 uses)
+    Cast Time: 1.00 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 85%
+    Description: Throws a trap which, once triggered, will repeatedly strike multiple areas around it for a duration, dealing lightning damage.
+    Deals 238 to 713 Lightning Damage
+    Trap lasts 4 seconds
+    Base duration is 3.50 seconds
+    Strikes every 0.36 seconds
+    Modifiers to Trap Throwing Speed also apply to strike Frequency
+    138% increased Critical Strike Chance against Shocked Enemies
+    Strikes 4 Areas
+Lightning Spire Trap
+    Trap, Critical, Spell, Duration, AoE, Lightning
+    Cost: 25 Mana
+    Cooldown Time: 8.00 sec (3 uses)
+    Cast Time: 1.00 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 85%
+    Description: Throws a trap which, once triggered, will repeatedly strike multiple areas around it for a duration, dealing lightning damage.
+    Deals 238 to 713 Lightning Damage
+    Trap lasts 4 seconds
+    Base duration is 3.50 seconds
+    Strikes every 0.36 seconds
+    Modifiers to Trap Throwing Speed also apply to strike Frequency
+    138% increased Critical Strike Chance against Shocked Enemies
+    Strikes 4 Areas
+Lightning Strike
+    Attack, Projectile, Melee, Strike, Lightning
+    Cost: 6 Mana
+    Attack Damage: 225% of base
+    Effectiveness of Added Damage: 225%
+    Description: Infuses your melee weapon with electrical energies as you swing. In addition to converting some of your physical damage to lightning damage, the stored energy is released from the weapon as projectiles as you strike, flying out to hit farther-away enemies. The projectiles cannot miss if the melee attack hits a target.
+    50% of Physical Damage Converted to Lightning Damage
+    9 to 179 Added Lightning Damage
+    Fires 4 Projectiles
+Lightning Tendrils
+    Critical, Spell, AoE, Lightning, Channelling
+    Cost: 5 Mana
+    Cast Time: 0.23 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 130%
+    Description: While you channel this skill, it releases pulses of electrical energy, dealing lightning damage in a semicircular area in front of you.
+    Deals 75 to 1420 Lightning Damage
+    +0.7 metres to radius
+    +40% to Critical Strike Multiplier
+    Releases a Stronger Pulse every 3 Pulses<br>Stronger Pulses always Critically Strike
+    Base radius is 2.4 metres
+Lightning Tendrils
+    Critical, Spell, AoE, Lightning, Channelling
+    Cost: 5 Mana
+    Cast Time: 0.23 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 130%
+    Description: While you channel this skill, it releases pulses of electrical energy, dealing lightning damage in a semicircular area in front of you.
+    Deals 75 to 1420 Lightning Damage
+    +0.7 metres to radius
+    +40% to Critical Strike Multiplier
+    Releases a Stronger Pulse every 3 Pulses<br>Stronger Pulses always Critically Strike
+    Base radius is 2.4 metres
+Lightning Trap
+    Trap, Critical, Spell, Projectile, Lightning
+    Cost: 20 Mana
+    Cast Time: 1.00 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 240%
+    Description: Throws a trap that launches a ring of projectiles through the enemy that set it off, dealing lightning damage to them and subsequent targets.
+    Deals 659 to 1978 Lightning Damage
+    Trap lasts 4 seconds
+    Fires 9 Projectiles
+    Fires Projectiles in a circle
+    20% chance to Shock enemies
+    15% Chance for Trap to Trigger an additional time
+    118% increased Critical Strike Chance against Shocked Enemies
+    19% increased Effect of Shock
+Mirror Arrow
+    Attack, Minion, Duration, Movement, Travel, Bow
+    Cost: 20 Mana
+    Cooldown Time: 3.00 sec
+    Attack Damage: 100% of base
+    Description: Fires an arrow at the target destination. When the arrow lands, a clone is summoned. The clone is a minion that uses your bow and quiver.
+    Base duration is 3.00 seconds
+    87% increased Cooldown Recovery Rate
+    Minions deal 57% more Damage
+Mirror Arrow
+    Attack, Minion, Duration, Movement, Travel, Bow
+    Cost: 20 Mana
+    Cooldown Time: 3.00 sec
+    Attack Damage: 100% of base
+    Description: Fires an arrow at the target destination. When the arrow lands, a clone is summoned. The clone is a minion that uses your bow and quiver.
+    Base duration is 3.00 seconds
+    87% increased Cooldown Recovery Rate
+    Minions deal 57% more Damage
+Molten Strike
+    Attack, Projectile, AoE, Melee, Strike, Fire
+    Cost: 6 Mana
+    Attack Damage: 185% of base
+    Effectiveness of Added Damage: 185%
+    Description: Infuses your melee weapon with molten energies to attack with physical and fire damage. This attack causes balls of molten magma to launch forth from the enemies you hit, divided amongst all enemies hit by the strike. These will deal area attack damage to enemies where they land.
+    75 to 113 Added Fire Damage
+    Fires 4 Projectiles
+    60% of Physical Damage Converted to Fire Damage
+    +0.6 metres to Melee Strike Range
+    Projectiles deal 40% less Damage with Hits and Ailments
+Purifying Flame
+    Fire, Spell, AoE, Duration, Physical
+    Cost: 25 Mana
+    Cast Time: 0.70 sec
+    Critical Strike Chance: 5.50%
+    Effectiveness of Added Damage: 300%
+    Description: A wave of divine fire deals damage in a line, then creates Consecrated Ground and deals damage in an area around the targeted location. A larger shockwave then expands outwards, damaging enemies standing on Consecrated Ground that were not already hit.
+    Deals 1324 to 1986 Physical Damage
+    Base duration is 4.00 seconds
+    50% of Physical Damage Converted to Fire Damage
+    +0.4 metres to radius
+    +0.9 metres to radius of Consecrated Ground
+    Shockwave deals 25% less Damage
+Pyroclast Mine
+    Mine, Spell, Projectile, Fire, AoE, Aura, Nova
+    Cost: 6 Mana
+    Reservation: 6 Mana
+    Cast Time: 0.18 sec
+    Critical Strike Chance: 5.50%
+    Effectiveness of Added Damage: 80%
+    Description: Throws a mine that deals damage in an area when detonated, then launches fiery projectiles that rain down around it, each exploding to deal damage in a smaller area.
+    Mine lasts 5 seconds
+    Deals 240 to 361 Fire Damage
+    Base Mine Detonation Time is 0.35 seconds
+    Fires 4 Projectiles
+    Fires an additional Projectile for every 4 prior Mines in Detonation Sequence
+    Each Mine Adds 12 to 18 Fire Damage to Hits against Enemies near it, up<br>to a maximum of 601 to 901
+Rage Vortex
+    Attack, AoE, Duration, Melee
+    Cost: 46 Life
+    Attack Speed: 70% of base
+    Attack Damage: 62% of base
+    Effectiveness of Added Damage: 62%
+    Description: Spin with a sword or axe to deal damage in an area around you. Sacrifices some rage to send a ragestorm forward. While enemies are inside it, the ragestorm will slow its movement and repeatedly deal attack damage based on your attack speed.
+    Base duration is 3.00 seconds
+    Base radius is 1.8 metres
+    Sacrifices 25% of Rage to create a Ragestorm, if you have at least 10 Rage
+    Ragestorm deals 5% more Damage per 1 Rage Sacrificed
+    Ragestorm has +0.1 metres to radius per 2 Rage sacrificed
+    Ragestorm Hits 250% more Frequently
+    Maximum 1 Ragestorm
+Raise Spectre
+    Spell, Minion
+    Cost: 28 Mana
+    Cast Time: 0.85 sec
+    Description: Raises a spectral version of a defeated foe as a minion to fight for you in battle.
+    Maximum 2 Raised Spectres
+    Minions have +50% to all Elemental Resistances
+    55% more Minion Movement Speed
+    Minion Movement Speed is Capped
+    Raised Spectres are Level 70
+    Minions have 776 additional Accuracy Rating
+Raise Zombie
+    Spell, Minion
+    Cost: 28 Mana
+    Cast Time: 0.85 sec
+    Description: Raises a zombie minion from a corpse, which will follow you and attack enemies with a melee strike.
+    Maximum 7 Raised Zombies
+    Minions have 38% more Maximum Life
+Raise Zombie
+    Spell, Minion
+    Cost: 28 Mana
+    Cast Time: 0.85 sec
+    Description: Raises a zombie minion from a corpse, which will follow you and attack enemies with a melee strike.
+    Maximum 7 Raised Zombies
+    Minions have 38% more Maximum Life
+Reave
+    Attack, AoE, Melee
+    Cost: 6 Mana
+    Attack Damage: 250% of base
+    Effectiveness of Added Damage: 250%
+    Description: Attacks a small area in front of you. Each Reave that hits an enemy grants stages, which you will begin to lose after a short period without hitting anything. Only works with Daggers, Claws, and One-Handed Swords.
+    4 Maximum Stages
+    +0.2 metres to radius
+    50% more Area of Effect for each stage
+    +2 to maximum Stages
+Scorching Ray
+    Spell, Fire, Duration, Channelling
+    Cost: 5 Mana
+    Cast Time: 0.25 sec
+    Description: Unleash a beam of fire that burns enemies it touches. Remaining in the beam intensifies the burning, adding a portion of the beam's damage in stages. Inflicts Fire Exposure at maximum stages. Enemies who leave the beam continue to burn for a duration. Increasing cast speed also increases the rate at which the beam can turn.
+    Deals 780.7 Base Fire Damage per second
+    Base duration is 1.50 seconds
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    Burning Debuff can have a maximum of 8 stages
+    Additional Debuff stages add 70% of Damage
+    Fire Exposure applies -25% to Fire Resistance
+Seismic Trap
+    Trap, Spell, Duration, AoE, Physical
+    Cost: 25 Mana
+    Cooldown Time: 8.00 sec (3 uses)
+    Cast Time: 1.00 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 140%
+    Description: Throws a trap which, once triggered, repeatedly releases a number of waves for a duration. Each wave deals damage in a series of small bursts in a line, ending with a larger burst.
+    Deals 645 to 967 Physical Damage
+    Trap lasts 4 seconds
+    Base duration is 3.50 seconds
+    Modifiers to Trap Throwing Speed also apply to wave release Frequency
+    Releases waves every 0.9 seconds
+    Releases 6 waves
+Shattering Steel
+    Attack, Projectile, AoE, Physical
+    Cost: 9 Mana
+    Attack Speed: 85% of base
+    Attack Damage: 159% of base
+    Effectiveness of Added Damage: 159%
+    Description: Swing an Axe or Sword, firing projectiles which shatter on impact or soon after being launched, dealing area damage in front of where they shatter.
+    123 to 185 Added Attack Physical Damage
+    Fires 2 additional Projectiles
+    40% chance to Impale Enemies on Hit
+    40% increased Impale Effect
+Shield Crush
+    Attack, AoE, Physical, Melee
+    Cost: 8 Mana
+    Attack Time: 0.80 sec
+    Critical Strike Chance: 5.00%
+    Attack Damage: 100% of base
+    Description: Swipe your shield, dealing area damage in three waves in front of you. Enemies can be hit by two of the waves where they overlap.
+    172 to 258 Base Off Hand Physical Damage
+    5 to 7 Added Physical Damage per 15 Armour or Evasion Rating on Shield
+    +0.6 metres to radius
+    Deals up to 10% more Damage with Hits to closer targets
+Siege Ballista
+    Attack, Projectile, Totem, Bow
+    Cost: 11 Mana
+    Attack Speed: 50% of base
+    Attack Damage: 145% of base
+    Effectiveness of Added Damage: 145%
+    Description: Summons a ballista totem that attacks with piercing arrows. Requires a Bow.
+    Arrows Pierce 9 additional Targets
+    +3 to maximum number of Summoned Totems
+    Totem lasts 8 seconds
+    Summons a Ballista Totem which uses this Skill
+    5% increased Attack Speed per maximum Totem
+Smite
+    Lightning, Attack, AoE, Duration, Melee, Strike, Aura
+    Cost: 6 Mana
+    Attack Speed: 85% of base
+    Attack Damage: 273% of base
+    Effectiveness of Added Damage: 273%
+    Description: Performs a melee attack, and causes lightning to strike a targeted location or nearby enemy, dealing damage in an area. Each target can only be hit once by this skill. Hitting an enemy grants an aura, giving you and your allies additional lightning damage for a duration. Requires a Sword, Axe, Mace, Sceptre, Staff or Unarmed.
+    50% of Physical Damage Converted to Lightning Damage
+    Base duration is 4.00 seconds
+    +0.6 metres to radius
+    10% less Area Damage
+    Lightning strikes 1 target
+    Aura grants 12 to 220 added Lightning Damage
+    Aura grants 19% chance to Shock
+Soulrend
+    Chaos, Spell, AoE, Duration, Projectile
+    Cost: 26 Mana
+    Cast Time: 0.80 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 170%
+    Description: Fires a projectile that turns towards enemies in front of it, damaging and piercing through those it hits, and leeching some of that damage as energy shield. As the projectile travels, it repeatedly applies a short but powerful chaos damage over time debuff to each enemy in an area around it.
+    Deals 885 to 1327 Chaos Damage
+    Projectiles Pierce all Targets
+    Deals 2642.5 Base Chaos Damage per second
+    Base duration is 0.80 seconds
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    4% of Spell Damage Leeched as Energy Shield
+Soulrend
+    Chaos, Spell, AoE, Duration, Projectile
+    Cost: 26 Mana
+    Cast Time: 0.80 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 170%
+    Description: Fires a projectile that turns towards enemies in front of it, damaging and piercing through those it hits, and leeching some of that damage as energy shield. As the projectile travels, it repeatedly applies a short but powerful chaos damage over time debuff to each enemy in an area around it.
+    Deals 885 to 1327 Chaos Damage
+    Projectiles Pierce all Targets
+    Deals 2642.5 Base Chaos Damage per second
+    Base duration is 0.80 seconds
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    4% of Spell Damage Leeched as Energy Shield
+Spark
+    Spell, Projectile, Duration, Lightning
+    Cost: 21 Mana
+    Cast Time: 0.65 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 190%
+    Description: Launches unpredictable sparks that move randomly until they hit an enemy or expire.
+    Deals 104 to 1983 Lightning Damage
+    Base duration is 2.00 seconds
+    Fires 10 Projectiles
+Spark
+    Spell, Projectile, Duration, Lightning
+    Cost: 21 Mana
+    Cast Time: 0.65 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 190%
+    Description: Launches unpredictable sparks that move randomly until they hit an enemy or expire.
+    Deals 104 to 1983 Lightning Damage
+    Base duration is 2.00 seconds
+    Fires 10 Projectiles
+Spectral Shield Throw
+    Attack, Projectile, Physical
+    Cost: 10 Mana
+    Attack Time: 0.65 sec
+    Critical Strike Chance: 5.00%
+    Attack Damage: 100% of base
+    Description: Throws a spectral copy of your shield as a projectile which cannot pierce, and deals off-hand damage augmented by the defences of the shield. When it collides with something it will shatter, launching a number of smaller shards as projectiles in all directions. Modifiers that cause additional projectiles to be fired will add more shards, not more copies of the shield.
+    Shard Projectiles Deal 50% less Damage
+    203 to 304 Base Off Hand Physical Damage
+    5 to 7 Added Physical Damage per 15 Armour or Evasion Rating on Shield
+    Fires 5 additional Projectiles
+    Primary Projectile Chains +3 Times
+Spectral Throw
+    Attack, Projectile
+    Cost: 8 Mana
+    Attack Speed: 110% of base
+    Attack Damage: 125% of base
+    Effectiveness of Added Damage: 125%
+    Description: Throws a spectral copy of your melee weapon. It flies out and then returns to you, in a spinning attack that damages enemies in its path.
+    Projectiles that have Pierced deal 10% more Damage
+Split Arrow
+    Attack, Projectile, Physical, Bow
+    Cost: 10 Mana
+    Attack Speed: 110% of base
+    Attack Damage: 119% of base
+    Effectiveness of Added Damage: 119%
+    Description: Fires multiple arrows at different targets.
+    56 to 85 Added Attack Physical Damage
+    Fires 13 Arrows
+Splitting Steel
+    Attack, Projectile, AoE, Physical
+    Cost: 8 Mana
+    Attack Speed: 90% of base
+    Attack Damage: 210% of base
+    Effectiveness of Added Damage: 210%
+    Description: Fire a single projectile that splits on impact or at the targeted location, dealing area damage when it splits and again when the split projectiles explode at the end of their flight. Requires a Sword or Axe.
+    101 to 151 Added Attack Physical Damage
+    Modifiers to number of Projectiles instead apply to<br>the number of targets Projectile Splits towards
+    Projectiles Split towards 5 targets
+    Base radius is 1 metre
+    40% chance to Impale Enemies on Hit
+    40% increased Impale Effect
+    Projectiles can Split without hitting a target
+Storm Brand
+    Lightning, Spell, AoE, Chaining, Duration, Brand
+    Cost: 21 Mana
+    Cast Time: 0.75 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 30%
+    Description: Creates a magical brand which can attach to a nearby enemy. It periodically activates while attached, firing beams which deal damage to nearby enemies and those around them. The brand will detach if the enemy dies.
+    Deals 92 to 277 Lightning Damage
+    Activates every 0.5 seconds while Attached
+    Increases and Reductions to Cast Speed also apply to this Skill's Activation frequency
+    Can be Attached for a total Duration of 5.00 seconds
+    Can be Detached for a total Duration of 6.00 seconds
+    Sends beams to 4 Enemies, including the Branded Enemy
+    Deals 130% more Damage with Hits against Branded Enemy
+Stormbind
+    Spell, AoE, Channelling, Lightning, Duration, Arcane
+    Cost: 5 Mana
+    Cast Time: 0.12 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 160%
+    Description: Channel to spread runes on the ground in a growing pattern. The runes fade away after a duration, or will be immediately removed and deal damage in a circular area when detonated by Rune Blast. Enemies standing on the runes are Hindered, reducing their movement speed.
+    Deals 444 to 1332 Lightning Damage
+    Base duration is 12.00 seconds
+    50% reduced Movement Speed
+    Runes have 40% more Area of Effect for each time they have been Improved
+    Runes deal 100% more Damage with Hits and Ailments for each time they have been Improved
+    A Rune is Improved for each 24 Mana Spent
+    Runes can be improved 3 times
+    Additional Skill: Rune Blast
+        Cost: 14 Mana
+        Cast Time: 0.20 sec
+        Description: Channel to improve runes placed by Stormbind based on the mana you spend channelling this skill. Release to detonate the targeted rune, which will cause other runes to detonate in a chain reaction.
+        10% increased Cast Speed
+Summon Chaos Golem
+    Chaos, Minion, Spell, Golem
+    Cost: 54 Mana
+    Cooldown Time: 6.00 sec
+    Cast Time: 1.00 sec
+    Description: Summons a Chaos Golem that grants you Physical Damage Reduction. The Chaos Golem can use a damage over time Chaos aura and a cascade of Chaos spikes in addition to its melee attack.
+    Maximum 1 Summoned Golem
+    Golems grant 4% additional Physical Damage Reduction
+    20% increased Buff Effect
+Summon Chaos Golem
+    Chaos, Minion, Spell, Golem
+    Cost: 54 Mana
+    Cooldown Time: 6.00 sec
+    Cast Time: 1.00 sec
+    Description: Summons a Chaos Golem that grants you Physical Damage Reduction. The Chaos Golem can use a damage over time Chaos aura and a cascade of Chaos spikes in addition to its melee attack.
+    Maximum 1 Summoned Golem
+    Golems grant 4% additional Physical Damage Reduction
+    20% increased Buff Effect
+Summon Flame Golem
+    Fire, Minion, Spell, Golem
+    Cost: 54 Mana
+    Cooldown Time: 6.00 sec
+    Cast Time: 1.00 sec
+    Description: Summons a Flame Golem that grants you increased Damage. The Flame Golem can use a fire spray, a wave of fire damage, and an explosive arcing projectile.
+    Maximum 1 Summoned Golem
+    Golems Grant 20% increased Damage
+    20% increased Buff Effect
+Summon Flame Golem
+    Fire, Minion, Spell, Golem
+    Cost: 54 Mana
+    Cooldown Time: 6.00 sec
+    Cast Time: 1.00 sec
+    Description: Summons a Flame Golem that grants you increased Damage. The Flame Golem can use a fire spray, a wave of fire damage, and an explosive arcing projectile.
+    Maximum 1 Summoned Golem
+    Golems Grant 20% increased Damage
+    20% increased Buff Effect
+Summon Ice Golem
+    Critical, Cold, Minion, Spell, Golem
+    Cost: 54 Mana
+    Cooldown Time: 6.00 sec
+    Cast Time: 1.00 sec
+    Description: Summons an Ice Golem that grants you increased Critical Strike Chance and Accuracy. The Ice Golem can use an icy barrage spell and a chilling spinning dash in addition to its melee attack.
+    Maximum 1 Summoned Golem
+    Golems Grant 30% increased Critical Strike Chance
+    Golems Grant 30% increased Accuracy
+    20% increased Buff Effect
+Summon Ice Golem
+    Critical, Cold, Minion, Spell, Golem
+    Cost: 54 Mana
+    Cooldown Time: 6.00 sec
+    Cast Time: 1.00 sec
+    Description: Summons an Ice Golem that grants you increased Critical Strike Chance and Accuracy. The Ice Golem can use an icy barrage spell and a chilling spinning dash in addition to its melee attack.
+    Maximum 1 Summoned Golem
+    Golems Grant 30% increased Critical Strike Chance
+    Golems Grant 30% increased Accuracy
+    20% increased Buff Effect
+Summon Raging Spirit
+    Spell, Minion, Duration, Fire
+    Cost: 16 Mana
+    Cast Time: 0.50 sec
+    Description: Summons a short-lived flaming skull that rushes at nearby enemies and attacks them rapidly, converting all its physical damage to fire. Enemies will not directly engage these spirits, and can pass through them.
+    Base duration is 5.00 seconds
+    Maximum 20 Summoned Raging Spirits
+    30% chance to summon an extra Minion
+    Minions cannot Taunt Enemies
+Summon Reaper
+    Physical, Minion, Spell
+    Cost: 28 Mana
+    Cooldown Time: 4.00 sec
+    Cast Time: 0.60 sec
+    Description: Summons a powerful Reaper which uses a variety of slashing area attacks. The Reaper's presence weakens your other minions, and it will consume them to temporarily empower and heal itself. Using this skill while the Reaper is already summoned causes it to dash to the targeted location and perform a powerful attack.
+    Maximum 1 Summoned Reaper
+    Minion's Attacks have 70% chance to inflict Bleeding
+    Minion deals 87% more Damage with Bleeding
+    Reaper causes your Non-Reaper Minions to deal 29% less Damage
+    Reaper causes your Non-Reaper Minions to have 29% less Maximum Life
+Summon Reaper
+    Physical, Minion, Spell
+    Cost: 28 Mana
+    Cooldown Time: 4.00 sec
+    Cast Time: 0.60 sec
+    Description: Summons a powerful Reaper which uses a variety of slashing area attacks. The Reaper's presence weakens your other minions, and it will consume them to temporarily empower and heal itself. Using this skill while the Reaper is already summoned causes it to dash to the targeted location and perform a powerful attack.
+    Maximum 1 Summoned Reaper
+    Minion's Attacks have 70% chance to inflict Bleeding
+    Minion deals 87% more Damage with Bleeding
+    Reaper causes your Non-Reaper Minions to deal 29% less Damage
+    Reaper causes your Non-Reaper Minions to have 29% less Maximum Life
+Summon Skeletons
+    Spell, Minion, Duration
+    Cost: 16 Mana
+    Cast Time: 0.50 sec
+    Description: Summon Skeleton Warrior minions at the targeted location. They use a melee attack and die after a duration. If made aggressive, Skeleton Warriors will also dash towards nearby enemies.
+    Base duration is 20.00 seconds
+    Maximum 8 Summoned Skeletons
+    Summons 3 Skeleton Warriors
+Summon Skeletons
+    Spell, Minion, Duration
+    Cost: 16 Mana
+    Cast Time: 0.50 sec
+    Description: Summon Skeleton Warrior minions at the targeted location. They use a melee attack and die after a duration. If made aggressive, Skeleton Warriors will also dash towards nearby enemies.
+    Base duration is 20.00 seconds
+    Maximum 8 Summoned Skeletons
+    Summons 3 Skeleton Warriors
+Sunder
+    Attack, AoE, Slam, Melee
+    Cost: 8 Mana
+    Attack Speed: 75% of base
+    Attack Damage: 325% of base
+    Effectiveness of Added Damage: 325%
+    Description: Slams the ground, creating a slow wave of churning terrain that damages enemies in a sequence of areas in front of you. A number of enemies hit by the wave will release a shockwave, damaging other enemies around them. Using the skill again will stop the previous wave. Requires a Mace, Sceptre, Axe, Staff or Unarmed.
+    19% more Area of Effect
+    Shockwaves deal 40% less Damage
+    Wave causes Shockwaves from up to 5 Enemies in each Area
+    Wave Damages 5 Areas
+    Wave has 25% reduced delay between Areas
+    Wave cannot stop before Damaging 2 Areas
+    Wave gains +0.3 metres to radius with each Area in the Sequence
+Void Sphere
+    Spell, AoE, Duration, Physical, Chaos, Orb
+    Cost: 54 Mana
+    Cooldown Time: 10.00 sec
+    Cast Time: 0.80 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 75%
+    Description: Creates a Void Sphere which Hinders enemies in an area around it, with the debuff being stronger on enemies closer to the sphere. It also regularly releases pulses of area damage. The Void Sphere will consume the corpses of any enemies which die in its area. Can only have one Void Sphere at a time.
+    Deals 344 to 516 Physical Damage
+    Base duration is 5.00 seconds
+    Pulses every 0.40 seconds
+    40% of Physical Damage Converted to Chaos Damage
+    Base radius is 3.8 metres
+    20% increased Cooldown Recovery Rate
+    Enemies in range are Hindered, with up to 39% reduced Movement Speed, based on distance from the Void Sphere
+Volatile Dead
+    Spell, AoE, Fire
+    Cost: 26 Mana
+    Cast Time: 0.80 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 170%
+    Description: Corpses near the targeted location explode, dealing damage in a small area and creating an orb which moves towards nearby enemies before dealing spell damage in a larger area. The explosion of the corpse is not affected by modifiers to spell damage, and cannot be reflected.
+    Deals 753 to 1129 Fire Damage
+    Consumes up to 3 corpses
+    Explosion deals base Fire Damage equal to 4% of the corpse's Maximum Life
+    Base radius is 2 metres
+    Base explosion radius is 1.5 metres
+    40% increased Orb Movement Speed
+    Maximum of 60 Orbs at a time
+Volatile Dead
+    Spell, AoE, Fire
+    Cost: 26 Mana
+    Cast Time: 0.80 sec
+    Critical Strike Chance: 5.00%
+    Effectiveness of Added Damage: 170%
+    Description: Corpses near the targeted location explode, dealing damage in a small area and creating an orb which moves towards nearby enemies before dealing spell damage in a larger area. The explosion of the corpse is not affected by modifiers to spell damage, and cannot be reflected.
+    Deals 753 to 1129 Fire Damage
+    Consumes up to 3 corpses
+    Explosion deals base Fire Damage equal to 4% of the corpse's Maximum Life
+    Base radius is 2 metres
+    Base explosion radius is 1.5 metres
+    40% increased Orb Movement Speed
+    Maximum of 60 Orbs at a time
+Volcanic Fissure
+    Melee, Attack, Projectile, AoE, Slam, Fire
+    Cost: 8 Mana
+    Attack Speed: 80% of base
+    Attack Damage: 185% of base
+    Effectiveness of Added Damage: 185%
+    Description: Slam the ground, creating a winding fissure that deals area damage while travelling outwards. When it reaches the target location it erupts, releasing a burst of molten projectiles. Requires an Axe, Mace, Sceptre, Staff or Unarmed.
+    Fires 7 Projectiles
+    60% of Physical Damage Converted to Fire Damage
+    Projectiles deal 50% less Damage with Hits and Ailments
+Vortex
+    Spell, AoE, Cold, Duration, Nova
+    Cost: 25 Mana
+    Cast Time: 0.75 sec
+    Critical Strike Chance: 6.00%
+    Effectiveness of Added Damage: 270%
+    Description: An icy blast explodes around the caster, dealing cold damage to enemies, and leaving behind a whirling vortex which deals cold damage over time and chills enemies caught in it.
+    Deals 779 to 1169 Cold Damage
+    Base duration is 3.00 seconds
+    Deals 2316.1 Base Cold Damage per second
+    Modifiers to Spell Damage apply to this Skill's Damage Over Time effect
+    +0.2 metres to radius
+Wild Strike
+    Attack, Melee, Strike, Lightning, Cold, Fire, Projectile, AoE, Chaining, Prismatic
+    Cost: 6 Mana
+    Attack Damage: 231% of base
+    Effectiveness of Added Damage: 231%
+    Description: Your melee weapon strikes enemies, converting physical damage to a random element. Then, depending on the element chosen, it releases a fiery explosion, an arcing bolt of lightning, or an icy wave. It will avoid choosing the same element twice in a row.
+    Projectiles Pierce all Targets
+    Beams Chain 7 Times
+    Fires 3 Projectiles
+    19% increased Area of Effect
+    20% chance to Freeze, Shock and Ignite
+    100% of Physical Damage Converted to Fire, Cold or Lightning Damage
